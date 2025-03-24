@@ -1,4 +1,4 @@
-❤️ Heart Health Detection
+## ❤️ Heart Health Detection
 
 📝 Project Overview
 This project aims to develop a machine learning model to analyze heartbeat audio data and predict potential heart-related diseases. By utilizing audio data from two sets of heartbeat recordings, the model identifies patterns associated with different heart conditions.
