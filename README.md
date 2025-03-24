@@ -34,7 +34,7 @@ This project aims to develop a machine learning model to analyze heartbeat audio
 ## 📊 Results
 - Accuracy obtained: *To be updated after testing.*
 
-##🚀 Future Scope
+## 🚀 Future Scope
 - Integrating real-time heart monitoring systems.
 - Enhancing the model to detect more complex heart conditions.
 
